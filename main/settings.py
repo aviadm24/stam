@@ -27,7 +27,7 @@ SECRET_KEY = '%j0pjp!1y2d1pp@2v4+611ov0l366j%=+nrze!p=uwnfh1ww@_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'aviad-ib.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aviad-stam.herokuapp.com']
 
 
 # Application definition
