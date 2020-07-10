@@ -1,0 +1,5 @@
+.idea
+/env
+StamStam/
+__pycache__/
+.pyc
